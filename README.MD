@@ -1,0 +1,1 @@
+My solution for https://github.com/GoBootcamp/avatarme
